@@ -1,1 +1,2 @@
 this is secondday of demo git
+adding second line to file
